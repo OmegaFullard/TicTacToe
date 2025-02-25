@@ -24,7 +24,7 @@ namespace TicTacToe
         private MarkType[] mResults;
 
         /// <summary>
-        /// Thre if it is a player 1's turn (X) or a player 2's turn (O)
+        /// True if it is a player 1's turn (X) or a player 2's turn (O)
         /// </summary>
         private bool mPlayer1Turn;
 
